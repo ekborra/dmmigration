@@ -22,7 +22,7 @@
  *      Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
  */
 
-$network_id = 318906;
+$network_id = 318905;
 $results_dir = $network_id."/";
 
 // make a dir to store the results
